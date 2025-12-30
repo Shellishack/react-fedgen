@@ -1,0 +1,25 @@
+{
+  "name": "react-fedgen",
+  "version": "0.0.1",
+  "description": "Runtime generated component. Enter description of your component to see it being generated without worrying about coding it.",
+  "keywords": [
+    "module-federation",
+    "vibe-coding",
+    "react"
+  ],
+  "homepage": "https://github.com/Shellishack/react-fedgen#readme",
+  "bugs": {
+    "url": "https://github.com/Shellishack/react-fedgen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shellishack/react-fedgen.git"
+  },
+  "license": "MIT",
+  "author": "shellishack",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
